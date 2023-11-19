@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.29c1178a.css",
+    "main.js": "/static/js/main.92e906e1.js",
+    "static/js/787.9e9f4ffd.chunk.js": "/static/js/787.9e9f4ffd.chunk.js",
+    "static/media/logo.png": "/static/media/logo.a7335dbd01e974c87f5d.png",
+    "static/media/BenzGl.jpg": "/static/media/BenzGl.6489bbfd180662c0df56.jpg",
+    "static/media/Lamborghini.jpg": "/static/media/Lamborghini.c6e2ae9fa48cc8785fae.jpg",
+    "static/media/ToyotaPrius.jpg": "/static/media/ToyotaPrius.93e5135b0376d4cbf62d.jpg",
+    "static/media/Camry.jpg": "/static/media/Camry.13b55a4ffe2c60c70c8d.jpg",
+    "static/media/Fusion.jpg": "/static/media/Fusion.74dfa8a54ccb7b1b38e0.jpg",
+    "static/media/Lexus.jpg": "/static/media/Lexus.81e0d2b204c9c28c361c.jpg",
+    "static/media/Bmw3.jpg": "/static/media/Bmw3.24f5980bbe3e94a15634.jpg",
+    "static/media/alk-katerina.ttf": "/static/media/alk-katerina.9fa06bd57ce91a1b0f3b.ttf",
+    "static/media/agancxad.ttf": "/static/media/agancxad.56fde3fa218a25a933db.ttf",
+    "static/media/3d_unicode.ttf": "/static/media/3d_unicode.b5043f85f06766e55b62.ttf",
+    "static/media/ENG.png": "/static/media/ENG.e926a47c8090a6b9c494.png",
+    "index.html": "/index.html",
+    "main.29c1178a.css.map": "/static/css/main.29c1178a.css.map",
+    "main.92e906e1.js.map": "/static/js/main.92e906e1.js.map",
+    "787.9e9f4ffd.chunk.js.map": "/static/js/787.9e9f4ffd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29c1178a.css",
+    "static/js/main.92e906e1.js"
+  ]
+}
