@@ -200,7 +200,7 @@ const SlideContext = styled.div`
 
                           @media (max-width: 1024px) { font-size: 80%; }
 
-                          @media (max-width: 500px) { font-size: 70%; }
+                          @media (max-width: 500px) { display: none; }
     
                         }
                         @media (max-width: 1024px) {max-width: 86%;}

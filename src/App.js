@@ -206,20 +206,20 @@ function App({ isOpen, lang , isLogin }) {
     transition: '2.5s ease-in-out'
   };
   
-  const [data, setData] = useState(null);
+  // const [data, setData] = useState(null);
 
-  useEffect(() => {
-    const fetchData = async () => {
-      try {
-        const response = await axios.get('/'); 
-        setData(response.data);
-      } catch (error) {
-        console.error('Error fetching data:', error);
-      }
-    };
+  // useEffect(() => {
+  //   const fetchData = async () => {
+  //     try {
+  //       const response = await axios.get('/'); 
+  //       setData(response.data);
+  //     } catch (error) {
+  //       console.error('Error fetching data:', error);
+  //     }
+  //   };
 
-    fetchData();
-  }, []);
+  //   fetchData();
+  // }, []);
 
   return (
     <>
@@ -228,18 +228,11 @@ function App({ isOpen, lang , isLogin }) {
 
            <SlideConteiner />
 
-      <h1>{data ? data.message : 'Loading...'}</h1>
+      {/* <h1>{data ? data.message : 'Loading...'}</h1> */}
 
 </div>
 
 
-{slideContext.map((slide, index) => (
-            <li style={{zIndex: '15'}} key={index}>
-              <h3>{slide.title}</h3>
-              <p>{slide.context}</p>
-              <a href={slide.link}>Link</a>
-            </li>
-          ))}
 
 
         </>
