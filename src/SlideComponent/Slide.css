@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'SlideTitel'; 
+    /* src: url('../font/3d_unicode.ttf') format('opentype'); */
+    src: url('../font/agancxad.ttf') format('opentype');
+  }
+  @font-face {
+    font-family: 'SlideContext'; 
+    src: url('../font/3d_unicode.ttf') format('opentype');
+  }  
+  @font-face {
+    font-family: 'SlideBtn'; 
+    src: url('../font/alk-katerina.ttf') format('opentype');
+  }
